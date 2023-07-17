@@ -3,3 +3,6 @@ File filter=lfs diff=lfs merge=lfs -text
 Assets/TerrainTexturesPackFree/TerrainTextures/GrassUV01_N.png filter=lfs diff=lfs merge=lfs -text
 Assets/TerrainTexturesPackFree/TerrainTextures/GrassUV02.png filter=lfs diff=lfs merge=lfs -text
 Assets/TerrainTexturesPackFree/TerrainTextures/GrassUV02_N.png filter=lfs diff=lfs merge=lfs -text
+tutorialsGrid filter=lfs diff=lfs merge=lfs -text
+PlacementEarthSimAssetsTerrainTexturesPackFreeTerrainTexturesGrassUV01.png filter=lfs diff=lfs merge=lfs -text
+E:Unity filter=lfs diff=lfs merge=lfs -text
