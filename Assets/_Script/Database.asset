@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a03dc10867179604c82fd28417e7f74a, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: House
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab>k__BackingField: {fileID: 7388843569140496126, guid: b00946588e8483647874308eafdffd6d,
+      type: 3}
+  - <Name>k__BackingField: Victim
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 4965928506351482518, guid: b2b53d5f0ab809f49a16cac9b0a5305d,
+      type: 3}
+  - <Name>k__BackingField: Obstacle
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 2795856375937277061, guid: 05661026c17e5e040b4fe61e9f0f9e22,
+      type: 3}
+  - <Name>k__BackingField: Doctor
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 7037550667768064840, guid: fd01dd1480da91e4fb62103af4d9a9ef,
+      type: 3}
+  - <Name>k__BackingField: FireFighter
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 1723072546357691642, guid: 4947ee9b0c0220146bd406d046d61698,
+      type: 3}
+  - <Name>k__BackingField: straightRoad
+    <ID>k__BackingField: 6
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 2923525716021569935, guid: 248f2547b2e1f6a43a28fa6865946edb,
+      type: 3}
+  - <Name>k__BackingField: cornerRoad
+    <ID>k__BackingField: 7
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 1889170180372843000, guid: ad2c72789c27cf94684bb2d2082a2812,
+      type: 3}
+  - <Name>k__BackingField: 4WayRoad
+    <ID>k__BackingField: 8
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 1619172284783990154, guid: c66923802cc37294a85e8aaeb4a23c6b,
+      type: 3}
+  - <Name>k__BackingField: 3WayRoad
+    <ID>k__BackingField: 9
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 8233145630564605073, guid: de0a07388e8bdfa4d81f317f0b8787b1,
+      type: 3}
+  - <Name>k__BackingField: deadendRoad
+    <ID>k__BackingField: 10
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 64109459543037500, guid: 8a5a3ebbdb9cde042b2e11bc20624292,
+      type: 3}
